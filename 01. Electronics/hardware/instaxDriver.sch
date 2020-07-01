@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:instaxDriver
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -28,14 +29,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:QRE1113GR
-LIBS:EVQ-P7L01P
-LIBS:BK-883
-LIBS:PTS525SM15SMTR2LFS
-LIBS:EVQ-P7J01P
-LIBS:BK-92
 LIBS:BK-82
-LIBS:instaxDriver-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268

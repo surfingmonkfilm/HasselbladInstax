@@ -249,15 +249,15 @@
       (net 3 "Net-(BT1-PadS2)"))
     (pad S2 thru_hole circle (at 0 31.494) (size 2.67 2.67) (drill 1.78) (layers *.Cu *.Mask)
       (net 3 "Net-(BT1-PadS2)"))
-    (model ../../../../../home/ed/kicad-projects/instaxDriver/datasheets/keystone_82.wrl
-      (at (xyz 0 0.1 0))
-      (scale (xyz 0.39 0.39 0.39))
-      (rotate (xyz -90 0 0))
-    )
-    (model ../../../../../home/ed/kicad-projects/instaxDriver/datasheets/keystone_82.wrl
+    (model {KISYSPROJ}./keystone_82.wrl
       (at (xyz 0 -1.5 0))
       (scale (xyz 0.39 0.39 0.39))
       (rotate (xyz -90 0 180))
+    )
+    (model {KISYSPROJ}./keystone_82.wrl
+      (at (xyz 0 0.1 0))
+      (scale (xyz 0.39 0.39 0.39))
+      (rotate (xyz -90 0 0))
     )
   )
 
@@ -516,15 +516,15 @@
       (net 5 /GND))
     (pad S2 thru_hole circle (at 0 31.494 180) (size 2.67 2.67) (drill 1.78) (layers *.Cu *.Mask)
       (net 5 /GND))
-    (model ../../../../../home/ed/kicad-projects/instaxDriver/datasheets/keystone_82.wrl
-      (at (xyz 0 -1.5 0))
-      (scale (xyz 0.39 0.39 0.39))
-      (rotate (xyz -90 0 180))
-    )
-    (model ../../../../../home/ed/kicad-projects/instaxDriver/datasheets/keystone_82.wrl
+    (model {KISYSPROJ}./keystone_82.wrl
       (at (xyz 0 0.1 0))
       (scale (xyz 0.39 0.39 0.39))
       (rotate (xyz -90 0 0))
+    )
+    (model {KISYSPROJ}./keystone_82.wrl
+      (at (xyz 0 -1.5 0))
+      (scale (xyz 0.39 0.39 0.39))
+      (rotate (xyz -90 0 180))
     )
   )
 
