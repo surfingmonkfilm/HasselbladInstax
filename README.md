@@ -5,5 +5,6 @@ These folders contain all the files needed to recreate the project described on 
 
 The project is not ready to be followed just yet. This is uploaded for full candidness of our progress so far.
 
+Last Updated 11 Jul 2020.
 
 Any questions should be directed to surfingmonk@protonmail.com in the first instance. 
